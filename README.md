@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning all sorts of programming stuff
 - 🌱 I’m currently learning C , C++ 
 - 💞️ I’m looking to collaborate on any fun/interesting project
-- 📫 How to reach me: {My discord} 𝘬 𝘢 𝘺 𝘢 𝘮 ツ#0355
+- 📫 How to reach me: {My discord} kayam1
 
 <!---
 kayam1/kayam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
