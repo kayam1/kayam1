@@ -1,6 +1,6 @@
 # 👋 Hello, I'm @Kayam1
 
-## 🎯 About Me
+## 🤠 About Me
 
 I'm a frontend developer focused on building clean, interactive user interfaces with **React.js**. I enjoy turning design concepts into responsive, accessible web applications. Currently exploring **Flutter** to expand into mobile development.
 
