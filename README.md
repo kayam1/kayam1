@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Kayam1
 
   My full name is Nick Koulouris and I'm a frontend developer from Greece.   
-  
   My main focus is building clean, interactive user interfaces with **React.js** since I enjoy turning design concepts into responsive, accessible web applications.  
-  
   I am currently exploring **Flutter** to expand into mobile development.
 
 ---
