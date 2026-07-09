@@ -7,8 +7,8 @@
 ---
 
 ## ⭐ Current Goals
--  Working on: **React.js** projects (Chrome extensions, web apps)
--  Learning: **Flutter** for an inovative chess mobile app
+-  Developing more web apps / browser extensions using **React.js** 
+-  Learning **Flutter** for cutting edge multi platform application development
 
 ## 🛠️ Tech Stack
 
