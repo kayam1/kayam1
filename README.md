@@ -30,8 +30,6 @@
 - Chrome DevTools
 - npm 
 
----
-
 ## 📫 Let's Connect
 
 - **Discord** kayam1
