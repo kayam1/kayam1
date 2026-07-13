@@ -34,7 +34,5 @@
 
 - **Email:** nikos.koulouris01@gmail.com
 - **Linkedin:** [linkedin.com/in/nikolaos-koulouris](https://www.linkedin.com/in/nikolaos-koulouris-155567232/)
-- **Discord:** kayam1
-
 
 ---
